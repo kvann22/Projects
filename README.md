@@ -1,2 +1,2 @@
 # Projects
-This repisitory contains my current and past projects. I am hoping to see alot of development and skill advancment as I continue learning. 
+This repisitory contains my first project. Furniture Inventory. This data came from project-1-349215.customer_data on Google BigQuery. 
