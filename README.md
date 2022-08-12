@@ -1,2 +1,2 @@
 # Projects
-This repisitory contains my current and past projects. I am hoping to see alot of development and skill advancment as I continue learning. 
+This repisitory contains my current projects. I am including my code and database as well with each project. 
